@@ -1,1 +1,2 @@
 pushing local folder to github
+create a branch and pushing to github using branch protection rules
